@@ -1,2 +1,2 @@
-# Site-web-de-gestion-des-stages-de-fin-d-tudes-de-la-sp-cialit-nerg-tique-SUP-GALILEE
+# Site-web-de-gestion-des-stages-de-fin-detudes-de-la-specialite-energtique-SUP-GALILEE
 Novembre 2021
